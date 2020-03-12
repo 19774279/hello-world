@@ -1,3 +1,1 @@
-# hello-world
-just a test repository
-这是分支的redeme文件
+测试分支文件
